@@ -48,6 +48,12 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+# log files 
+*.log
+
+
+
+
 
 # Builds
 Build/*
