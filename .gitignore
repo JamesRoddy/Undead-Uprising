@@ -50,7 +50,8 @@ Binaries/*
 Plugins/*/Binaries/*
 # log files 
 *.log
-
+#ini files 
+*.ini
 
 
 
