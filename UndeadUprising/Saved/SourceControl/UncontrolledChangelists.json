@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/Interfaces/UI/WB_UI.uasset",
+				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/Blueprints/BP_Weapon_Class.uasset",
+				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/Blueprints/BP_Rifle.uasset",
 				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Maps/Kew_Test_Lvl.umap",
 				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/__ExternalActors__/FirstPerson/Maps/Kew_Test_Lvl/3/WG/5U8BOR2K311ADFT69V17YA.uasset",
 				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/__ExternalActors__/FirstPerson/Maps/Kew_Test_Lvl/C/L0/RM9PMU23H8VTL2X1KL08P0.uasset",
