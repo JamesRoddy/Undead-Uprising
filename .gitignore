@@ -48,6 +48,13 @@ SourceArt/**/*.tga
 # Binary Files
 Binaries/*
 Plugins/*/Binaries/*
+# log files 
+*.log
+#ini files 
+*.ini
+
+
+
 
 # Builds
 Build/*
@@ -72,3 +79,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+UndeadUprising/Saved/Config/WindowsEditor/Engine.ini
+UndeadUprising/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+UndeadUprising/Intermediate/ShaderAutogen/PCD3D_SM6/AutogenShaderHeaders.ush
+UndeadUprising/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+UndeadUprising/Saved/Logs/UndeadUprising.log
+UndeadUprising/Intermediate/CachedAssetRegistry_0.bin
+UndeadUprising/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+UndeadUprising/Saved/Logs/UndeadUprising-backup-2025.03.05-14.41.39.log
