@@ -11,6 +11,8 @@
 				"H:/Documents/Unreal Projects/Undead-Uprising/UndeadUprising/Content/Characters/Zombie/Animations/ABP_Charatcer.uasset",
 				"H:/Documents/Unreal Projects/Undead-Uprising/UndeadUprising/Content/Characters/Zombie/Blueprint/BP_AI_Character.uasset",
 				"H:/Documents/Unreal Projects/Undead-Uprising/UndeadUprising/Content/Characters/Zombie/AI_Charatcer/BT_AI.uasset",
+				"H:/Documents/Unreal Projects/Undead-Uprising/UndeadUprising/Content/Characters/Zombie/AI_Charatcer/BTTask_ChasePlayer.uasset",
+				"H:/Documents/Unreal Projects/Undead-Uprising/UndeadUprising/Content/Characters/Zombie/AI_Charatcer/BTTask_CheckDistance.uasset",
 				"G:/Unreal Projects/Undead-Uprising/UndeadUprising/Content/__ExternalActors__/FirstPerson/Maps/ZoTestMap/7/CI/JMVL75BX8ZFHZ86KVVGFMV.uasset",
 				"G:/Unreal Projects/Undead-Uprising/UndeadUprising/Content/__ExternalActors__/FirstPerson/Maps/ZoTestMap/8/AU/XPDC11DGZAPLFX6A5A0PXW.uasset",
 				"G:/Unreal Projects/Undead-Uprising/UndeadUprising/Content/__ExternalActors__/FirstPerson/Maps/ZoTestMap/E/ZS/RYNYB6DDI9RFYMHG2U5GUO.uasset",
