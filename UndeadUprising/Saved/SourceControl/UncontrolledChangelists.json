@@ -5,11 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Door/Door.uasset",
-				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Spawning/SpawnPoint.uasset",
-				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Spawning/WaveManager.uasset",
-				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Interactables/UpgradeStation/UpgradeStation.uasset",
-				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Interactables/InteractableUIwWidgets/UpgradeMachineUI.uasset",
 				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/Interfaces/UI/WB_UI.uasset",
@@ -112,7 +107,10 @@
 				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/Interfaces/UI/WB_UI.uasset",
 				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
-				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Door/Door.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Spawning/SpawnPoint.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Spawning/WaveManager.uasset"
 			]
 		}
 	]
