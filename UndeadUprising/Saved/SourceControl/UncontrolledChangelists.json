@@ -5,6 +5,24 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Door/Door.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Spawning/SpawnPoint.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Spawning/WaveManager.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Interactables/MedBox.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Interactables/InteractableUIwWidgets/MedBoxWidget.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Interactables/InteractableUIwWidgets/AmmoCrateWidget.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Interactables/AmmoCrate.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Interfaces/UI/WB_UI.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9N/RP4TFZPFS3L41U6VAF1D6S.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/StaticPickUps/AmmoPickUp.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/StaticPickUps/StaticPickUpsbase.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Interfaces/StaticPickUps/StaticPickUpsCollect.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/5V/01E5W75HL63N8LA64D3F2I.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/StaticPickUps/StaticPickUpSpawnPoint.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/LP/6YJWY1ZB95RZXOQ67X4GSZ.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/X7/KTEW2PZUMGPUGX1Y7Q8N7S.uasset",
+				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/kewin/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/Interfaces/UI/WB_UI.uasset",
@@ -517,10 +535,7 @@
 				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/Interfaces/UI/WB_UI.uasset",
 				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonPlayerController.uasset",
 				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
-				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Door/Door.uasset",
-				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Spawning/SpawnPoint.uasset",
-				"C:/Users/richa/OneDrive/Desktop/Undead Uprising/Undead-Uprising/UndeadUprising/Content/Spawning/WaveManager.uasset"
+				"H:/Documents/GitHub/Undead-Uprising/UndeadUprising/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
